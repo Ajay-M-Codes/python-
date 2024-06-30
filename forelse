@@ -1,0 +1,8 @@
+num = [23,76,99,69,69]
+for i in num:
+    if i % 5 == 0:
+        print(i)
+        break
+
+else:
+    print("not found")

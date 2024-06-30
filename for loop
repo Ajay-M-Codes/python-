@@ -1,0 +1,11 @@
+x = ["Ajay",34,98]
+for i in x:
+   print(i)
+  
+
+
+for i in range(1,100):
+    if i%5==0:
+        pass
+    print(i)
+

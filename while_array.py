@@ -6,4 +6,6 @@ new = array(num.typecode,(a*a for a in num ))
 i = 0
 while i < len(new):
     print(new[i])
-    i += 1
+    i+=1
+    
+    
